@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "UNDER THE TREE",
+  "base_artist": "SiM",
+  "createdAt": "2025-12-11T11:18:56.718608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Under the Tree",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/01_Under_the_Tree_SiM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Under the Tree",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/02_Under_the_Tree_SiM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UNDER THE TREE",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/03_UNDER_THE_TREE_SiM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "UNDER THE TREE - Full Length Ver.",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/04_UNDER_THE_TREE_-_Full_Length_Ver._SiM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Under the Tree",
+      "artist": "The Jelly Jam",
+      "has_synced": false,
+      "path": "select/05_Under_the_Tree_The_Jelly_Jam.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under the Tree (Attack on Titan)",
+      "artist": "NateWantsToBattle",
+      "has_synced": true,
+      "path": "select/06_Under_the_Tree_(Attack_on_Titan)_NateWantsToBattle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "under the tree",
+      "artist": "m1v",
+      "has_synced": true,
+      "path": "select/07_under_the_tree_m1v.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "UNDER THE TREE (Full Length Ver.)",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/08_UNDER_THE_TREE_(Full_Length_Ver.)_SiM.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Under the Tree (From \"Attack on Titan\") (Full Version)",
+      "artist": "Pellek",
+      "has_synced": true,
+      "path": "select/09_Under_the_Tree_(From__Attack_on_Titan_)_(Full_Version)_Pellek.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "UNDER THE TREE",
+      "artist": "SiM",
+      "has_synced": true,
+      "path": "select/10_UNDER_THE_TREE_SiM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Under the Tree",
+      "artist": "Sam Palladio",
+      "has_synced": true,
+      "path": "select/11_Under_the_Tree_Sam_Palladio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDER THE TREE",
+      "artist": "SiM",
+      "has_synced": false,
+      "path": "select/pl_01_UNDER_THE_TREE_SiM.txt"
+    }
+  ]
+}
